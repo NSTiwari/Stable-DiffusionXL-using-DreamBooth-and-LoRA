@@ -3,5 +3,8 @@ This project is an implementation of fine-tuning a foundation SDXL model using D
 
 ## Pipeline:
 
+## Text-to-image using fine-tuned LoRA:
+![SVD_video_to_gif](https://github.com/NSTiwari/Stable-DiffusionXL-using-DreamBooth-and-LoRA-on-Android/blob/main/SDXL-LoRA-text-to-image.jpg)
+
 ## Stable Video Diffusion
 ![SVD_video_to_gif](https://github.com/NSTiwari/Stable-DiffusionXL-using-DreamBooth-and-LoRA-on-Android/blob/main/stable_video_diffusion.gif)

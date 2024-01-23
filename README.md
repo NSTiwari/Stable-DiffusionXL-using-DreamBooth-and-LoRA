@@ -8,4 +8,3 @@ This project is an implementation of fine-tuning a foundation SDXL model using D
 
 ## Stable Video Diffusion
 <img src="https://github.com/NSTiwari/Stable-DiffusionXL-using-DreamBooth-and-LoRA-on-Android/blob/main/stable_video_diffusion.gif" width="800" height="400"/>
-![SVD_video_to_gif](https://github.com/NSTiwari/Stable-DiffusionXL-using-DreamBooth-and-LoRA-on-Android/blob/main/stable_video_diffusion.gif)

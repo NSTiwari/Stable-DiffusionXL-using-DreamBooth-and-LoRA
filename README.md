@@ -6,6 +6,7 @@ This project is an implementation of fine-tuning a foundation SDXL model using D
 
 ## Text-to-image using fine-tuned LoRA
 _Prompt: A photo of TOK home, an Indian living room basking in Republic Day morning sun, adorned with saffron, white, and green decor, and vibrant festive accents._
+
 <img src="https://github.com/NSTiwari/Stable-DiffusionXL-using-DreamBooth-and-LoRA-on-Android/blob/main/SDXL-LoRA-text-to-image.jpg" width="800" height="400"/>
 
 ## Stable Video Diffusion

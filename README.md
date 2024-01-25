@@ -27,8 +27,15 @@ _Prompt: A photo of TOK home, an Indian living room basking in Republic Day morn
 </p>
 
 
+
 ## Stable Video Diffusion
 Image to Video generation.
 
 <img src="https://github.com/NSTiwari/Stable-DiffusionXL-using-DreamBooth-and-LoRA-on-Android/blob/main/stable_video_diffusion.gif"/>
 
+
+## Resources:
+
+1. Try it yourself on Hugging Face: https://huggingface.co/NSTiwari/SDXL_LoRA_model
+2. Demo video: https://youtu.be/X_p0E2vBRjY
+3. Blog: https://aashi-dutt3.medium.com/b1c61644c61e

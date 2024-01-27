@@ -4,6 +4,8 @@ This project is an implementation of fine-tuning a foundation SDXL model using D
 - Image-to-image
 - Image-to-video
 
+<img src="https://github.com/NSTiwari/Stable-DiffusionXL-using-DreamBooth-and-LoRA-on-Android/blob/main/ai-architect-sdxl.gif"/>
+
 ## Pipeline:
 <img src="https://github.com/NSTiwari/Stable-DiffusionXL-using-DreamBooth-and-LoRA-on-Android/blob/main/AI_Architect_using_Stable Diffusion.gif"/>
 

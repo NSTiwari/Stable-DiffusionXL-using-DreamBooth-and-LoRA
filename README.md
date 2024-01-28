@@ -6,7 +6,7 @@ This project is an implementation of fine-tuning a foundation SDXL model using D
 
 <img src="https://github.com/NSTiwari/Stable-DiffusionXL-using-DreamBooth-and-LoRA-on-Android/blob/main/ai-architect-sdxl.gif"/>
 
-## Pipeline:
+## Pipeline
 <img src="https://github.com/NSTiwari/Stable-DiffusionXL-using-DreamBooth-and-LoRA-on-Android/blob/main/AI_Architect_using_Stable Diffusion.gif"/>
 
 ## Text-to-image generation using fine-tuned LoRA

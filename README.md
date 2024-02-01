@@ -1,7 +1,7 @@
 # Stable Diffusion XL using DreamBooth and LoRA
 This project is an implementation of fine-tuning a foundation SDXL model using DreamBooth and LoRA on custom data of interior room designs to generate:
 - Text-to-image
-- Image-to-image
+- Image-to-Image
 - Image-to-video
 
 <img src="https://github.com/NSTiwari/Stable-DiffusionXL-using-DreamBooth-and-LoRA-on-Android/blob/main/ai-architect-sdxl.gif"/>
